@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Domaci\Domaci\bin\Debug\Domaci.exe.config
+C:\Users\User\Desktop\Domaci\Domaci\bin\Debug\Domaci.exe
+C:\Users\User\Desktop\Domaci\Domaci\bin\Debug\Domaci.pdb
+C:\Users\User\Desktop\Domaci\Domaci\obj\Debug\Domaci.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Domaci\Domaci\obj\Debug\Domaci.Form1.resources
+C:\Users\User\Desktop\Domaci\Domaci\obj\Debug\Domaci.Properties.Resources.resources
+C:\Users\User\Desktop\Domaci\Domaci\obj\Debug\Domaci.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Domaci\Domaci\obj\Debug\Domaci.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Domaci\Domaci\obj\Debug\Domaci.exe
+C:\Users\User\Desktop\Domaci\Domaci\obj\Debug\Domaci.pdb
